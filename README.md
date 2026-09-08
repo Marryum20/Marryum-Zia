@@ -58,7 +58,7 @@ Manuscript submitted for publication:
 Research on AI-based diagnostic classification of thyroid scintigraphy images.
 
 🔗 Academic Profiles
-- [LinkedIn]((https://www.linkedin.com/in/marryum-zia-3408a1243/))
+- [LinkedIn](https://www.linkedin.com/in/marryum-zia-3408a1243/)
 - [Google Scholar](https://scholar.google.com/citations?view_op=new_articles&hl=en&imq=Marryum+Zia#)
 
 
