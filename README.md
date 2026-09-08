@@ -15,7 +15,7 @@ Computer Vision
 Medical Image Analysis
 Explainable AI
 
-Current Research
+Current Research;
 My MPhil research focuses on developing an AI-based diagnostic model for thyroid scintigraphy for automated classification of thyroid disorders.
 
 The project involves:
@@ -29,7 +29,7 @@ Deep learning and transfer learning
 Model evaluation
 Explainable AI
 
-Technical Skills
+Technical Skills;
 Programming & AI:
 Python · PyTorch · Deep Learning · Machine Learning · Computer Vision
 
@@ -39,20 +39,20 @@ DICOM · PACS · Medical Image Processing · Nuclear Medicine Imaging
 Research:
 Data Analysis · Scientific Research · Scientific Writing · Medical Image Analysis
 
-Research & Projects
+Research & Projects;
 🔹 AI-Based Thyroid Scintigraphy Classification
 Deep learning-based classification of thyroid scintigraphy images into five diagnostic categories using real-world nuclear medicine imaging data.
 
 🔹 Medical Image Processing
 Exploration of image preprocessing and enhancement techniques for medical imaging applications.
 
-Academic Highlights
+Academic Highlights;
 MPhil Physics — University of Agriculture Faisalabad
 BS Physics — University of Agriculture Faisalabad
 Merit scholarships during BS and MPhil studies
 Recognized for academic excellence and top-of-class performance
 
-Research Output
+Research Output;
 Manuscript submitted for publication:
 Research on AI-based diagnostic classification of thyroid scintigraphy images.
 
